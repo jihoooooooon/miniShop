@@ -9,7 +9,7 @@
 <br/>
 
 # 목차 📚
-- <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-">프로젝트 소개</a>
+- <a href="https://github.com/jihoon/exFinder?tab=readme-ov-file#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-">프로젝트 소개</a>
 - <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%ED%8C%80%EC%9B%90%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0-">팀원소개 및 역할
 - <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-">기술 스택
 - <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#erd-">ERD
