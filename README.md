@@ -139,7 +139,17 @@
 
 
 - **관리자 페이지**
-  - 회원관리, 계정권한 관리, 게시판 관리, 환율 업데이트 기능을 지원합니다.<br>
+  ![image](https://github.com/user-attachments/assets/b4556871-d609-4b52-b8ec-3a673fdec30f)
+  ![image](https://github.com/user-attachments/assets/99d2c565-23c1-4f5a-8c10-1a06db35c030)
+  ![image](https://github.com/user-attachments/assets/48383d4f-a846-4677-ab85-274fed34669e)
+  ![image](https://github.com/user-attachments/assets/3cba03d9-a5c0-4b53-b1e8-b6f7ed1dc67f)
+
+
+
+  - 관리자계정으로 로그인을 하게되면 관리자페이지로 이동하고 헤더 왼쪽에 관리자페이지로 이동할 수 있는 버튼이 생성됩니다
+  - 회원관리, 계정권한 관리, 상품관리, 추가 기능을 지원합니다.
+  
+  
     
     
 
