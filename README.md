@@ -71,46 +71,36 @@
 
 <br/><br/>
 # 주요 기능 💵
+
+- **메인 페이지**
+  ![image](https://github.com/user-attachments/assets/a2bf713d-15a6-45e4-8d37-b5a105140ba6)
+
+  - 시간별 변동 추이 차트 : 각 통화별 차트를 통해 변동 추이를 시각적으로 볼 수 있습니다.
+  - 세계 환율 변동률 : 세계지도에 각 통화별 전일비와 값을 볼 수 있습니다.
+  - 실시간 환율 표 : 실시간으로 환율 정보를 볼 수 있습니다.<br>
+
 - **회원가입**
   - 회원가입 시 DB에 유저정보가 등록됩니다.<br/>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85">기능보기</a>
-
+  
 - **로그인**
   - ID / PW를 입력해 로그인을 합니다.
   - 아이디 저장, 자동 로그인 기능을 지원해 사용자 편의성을 높였습니다.
   - ID와 PW를 각각 회원가입 시 입력했던 이메일과 전화번호로 찾을 수 있습니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EB%A1%9C%EA%B7%B8%EC%9D%B8">기능보기</a>
 
-- **커뮤니티**
-  - 유저들 간 환율 동향에 대해 이야기를 나눌 수 있습니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0">기능보기</a>
+- **마이 페이지**
+  - 내 프로필, 회원 정보 수정, 회원 탈퇴를 진행 할 수 있습니다.<br>
 
-- **메인 페이지**
-  - 환율 계산기 : 실시간 환율 정보를 적용해 환전 금액을 알 수 있습니다.
-  - 시간별 변동 추이 차트 : 각 통화별 차트를 통해 변동 추이를 시각적으로 볼 수 있습니다.
-  - 세계 환율 변동률 : 세계지도에 각 통화별 전일비와 값을 볼 수 있습니다.
-  - 실시간 환율 표 : 실시간으로 환율 정보를 볼 수 있습니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
-
-- **상세 페이지**
+- **제품,장바구니 페이지**
   - 기간별 변동 추이 : 단위 기간별 차트를 통해 변동 추이를 시각적으로 볼 수 있습니다
   - 최신 뉴스 : 최신 뉴스를 통해 환율 동향에 대해 참고 할 수 있습니다.
   - 일자,시간별 테이블 :과거 환율 정보를 조회할 수 있습니다.
   - 즐겨찾기와 환율 알림 기능을 이용할 수 있습니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
   
 
-- **마이 페이지**
-  - 내 프로필, 회원 정보 수정, 회원 탈퇴를 진행 할 수 있습니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
 
 - **관리자 페이지**
   - 회원관리, 계정권한 관리, 게시판 관리, 환율 업데이트 기능을 지원합니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
     
-- **실시간 환율 알림**
-  - 사용자가 환율 알림을 설정하면 사용자가 설정한 목표치에 도달할 경우 웹 페이지 내 헤더와 회원정보에 등록된 전화번호로 SMS를 통해 사용자에게 알림을 줍니다.<br>
-  <a href="https://github.com/leewonbin/exFinder/blob/master/Preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%99%98%EC%9C%A8-%EC%95%8C%EB%A6%BC">기능보기</a>
     
 
 <br/>
