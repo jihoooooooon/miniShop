@@ -74,6 +74,8 @@
 
 - **메인 페이지**
   ![image](https://github.com/user-attachments/assets/a2bf713d-15a6-45e4-8d37-b5a105140ba6)
+  ![image](https://github.com/user-attachments/assets/5258c8fc-c871-4892-9eb0-8089d55d6123)
+
 
   - 시간별 변동 추이 차트 : 각 통화별 차트를 통해 변동 추이를 시각적으로 볼 수 있습니다.
   - 세계 환율 변동률 : 세계지도에 각 통화별 전일비와 값을 볼 수 있습니다.
