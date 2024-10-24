@@ -1,4 +1,4 @@
-# ExFinder💹
+# Shopang💹
 <p align="center">
 </p>
 <h3 align="center"><strong>간단한 쇼핑몰 프로젝트</strong></h3>
