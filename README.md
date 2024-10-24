@@ -74,21 +74,23 @@
 
 - **메인 페이지**
   ![image](https://github.com/user-attachments/assets/a2bf713d-15a6-45e4-8d37-b5a105140ba6)
-  ![image](https://github.com/user-attachments/assets/5258c8fc-c871-4892-9eb0-8089d55d6123)
+  
 
-
-  - 시간별 변동 추이 차트 : 각 통화별 차트를 통해 변동 추이를 시각적으로 볼 수 있습니다.
-  - 세계 환율 변동률 : 세계지도에 각 통화별 전일비와 값을 볼 수 있습니다.
-  - 실시간 환율 표 : 실시간으로 환율 정보를 볼 수 있습니다.<br>
+  - 헤더, 푸터를 배치했으며 간단한 글귀와 로그인, 회원가입, 상품목록 버튼을 구현했습니다
 
 - **회원가입**
+ ![image](https://github.com/user-attachments/assets/58226550-6bec-45d0-9a7e-b988c8b038e8)
+ ![image](https://github.com/user-attachments/assets/c4d821de-ad19-4a1d-87f2-32d2203e338f)
+
+
   - 회원가입 시 DB에 유저정보가 등록됩니다.<br/>
   
 - **로그인**
+![image](https://github.com/user-attachments/assets/c7875d88-4344-40f1-b2d2-36194d15d2c2)
+
   - ID / PW를 입력해 로그인을 합니다.
   - 아이디 저장, 자동 로그인 기능을 지원해 사용자 편의성을 높였습니다.
-  - ID와 PW를 각각 회원가입 시 입력했던 이메일과 전화번호로 찾을 수 있습니다.<br>
-
+  
 - **마이 페이지**
   - 내 프로필, 회원 정보 수정, 회원 탈퇴를 진행 할 수 있습니다.<br>
 
