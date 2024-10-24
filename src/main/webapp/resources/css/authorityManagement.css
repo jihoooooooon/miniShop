@@ -1,0 +1,148 @@
+/* 공통 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* 배경색 */
+    margin: 0;
+    padding: 0;
+}
+
+/* 탭 스타일 */
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.tab {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff; /* 탭 배경색 */
+    border: 1px solid #ccc; /* 경계선 색상 */
+    border-radius: 5px 5px 0 0; /* 모서리 둥글기 */
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s; /* 배경색 전환 */
+    color: #333; /* 탭 텍스트 색상 */
+}
+
+.tab:hover {
+    background-color: #e2e2e2; /* 호버 시 배경색 */
+}
+
+.active {
+    background-color: #f4f4f4; /* 활성화된 탭 배경색 */
+    border-bottom: 1px solid transparent; /* 경계선 색상 */
+    color: #333; /* 활성화된 탭 텍스트 색상 */
+}
+
+/* 섹션 스타일 */
+.section {
+    display: none; /* 기본적으로 숨김 */
+    padding: 30px;
+    background-color: #fff; /* 섹션 배경색 */
+    border: 1px solid #ccc; /* 경계선 색상 */
+    border-radius: 0 0 5px 5px; /* 모서리 둥글기 */
+    width: 1400px; /* 섹션 너비 */
+    margin: 20px auto; /* 중앙 정렬 */
+}
+
+.section.active {
+    display: block; /* 활성화된 섹션 표시 */
+}
+
+/* 저장 버튼 스타일 */
+.storageBtn {
+    padding: 10px 20px;
+    background-color: #333; /* 저장 버튼 색상 */
+    color: white; /* 저장 버튼 텍스트 색상 */
+    border: none;
+    border-radius: 5px; /* 모서리 둥글기 */
+    cursor: pointer;
+    transition: background-color 0.3s; /* 배경색 전환 */
+}
+
+.storageBtn:hover {
+    background-color: #555; /* 호버 시 밝아지는 버튼 색상 */
+}
+
+/* 폼 제출 버튼 스타일 */
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #333; /* 폼 제출 버튼 색상 */
+    color: white; /* 폼 제출 버튼 텍스트 색상 */
+    border: none;
+    border-radius: 5px; /* 모서리 둥글기 */
+    cursor: pointer;
+    transition: background-color 0.3s; /* 배경색 전환 */
+}
+
+input[type="submit"]:hover {
+    background-color: #555; /* 호버 시 밝아지는 버튼 색상 */
+}
+
+/* 입력 필드 스타일 */
+input[type="text"], input[type="email"], input[type="date"], select {
+    padding: 8px 12px; /* 내부 여백 */
+    border: 1px solid #ccc; /* 경계선 색상 */
+    border-radius: 5px; /* 모서리 둥글기 */
+    width: 100%; /* 너비 100% */
+    margin-bottom: 10px; /* 하단 여백 */
+    box-sizing: border-box; /* 박스 모델 설정 */
+    color: #333; /* 입력 필드 텍스트 색상 */
+}
+
+/* 테이블 스타일 */
+.user-table {
+    width: 100%; /* 테이블 너비 100% */
+    border-collapse: collapse; /* 경계선 겹침 방지 */
+}
+
+.user-table th, .user-table td {
+    border: 1px solid #ddd; /* 테이블 경계선 색상 */
+    padding: 8px; /* 내부 여백 */
+    text-align: center; /* 텍스트 중앙 정렬 */
+    color: #333; /* 테이블 텍스트 색상 */
+}
+
+.user-table th {
+    background-color: #333; /* 테이블 헤더 배경색 */
+    color: white; /* 테이블 헤더 텍스트 색상 */
+}
+
+/* 입력 필드 스타일 조정 */
+input.u_nickname, input.u_name {
+    width: 70px; /* 원하는 너비로 조정 */
+}
+
+select.u_gender {
+    width: 80px; /* 성별 선택 박스 너비 */
+}
+
+input.u_phoneNumber {
+    width: 120px; /* 전화번호 입력 박스 너비 */
+}
+
+select.enabled {
+    width: 80px; /* 활성화 선택 박스 너비 */
+}
+
+/* 페이징 스타일 */
+#pagination {
+    text-align: center; /* 가운데 정렬 */
+    margin-top: 20px; /* 상단 여백 조정 */
+}
+
+/* 페이징 버튼 스타일 */
+#pagination button {
+    padding: 10px; /* 내부 여백 */
+    background-color: white; /* 페이징 버튼 배경색 */
+    color: black; /* 페이징 버튼 텍스트 색상 */
+    border: none; /* 경계선 없음 */
+    cursor: pointer; /* 커서 포인터 */
+    margin: 0 5px; /* 좌우 여백 */
+    transition: background-color 0.3s; /* 배경색 전환 */
+}
+
+#pagination button:hover {
+    background-color: #555; /* 호버 시 버튼 배경색 */
+}

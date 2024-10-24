@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.the.dao.IProductDao">
+<insert id="insert">
+insert into product(p_id,name,brand,type,price) values(#{p_id},#{name},#{brand},#{type},#{price})
+</insert>
+<select id="selectAll" resultType="productDto">
+SELECT * FROM product ORDER BY p_id ASC
+
+</select>
+<select id="selectId" resultType="productDto">
+select * from product where id=#{id}
+</select>
+
+<delete id="delete">
+delete product where p_id=#{p_id}
+</delete>
+
+<update id="updateProduct" parameterType="com.the.dto.ProductDto">
+        UPDATE product
+        SET 
+            name = #{name}, 
+            brand = #{brand}, 
+            type = #{type}, 
+            price = #{price}
+        WHERE p_id = #{p_id}
+    </update>
+    
+	<insert id="productAdd" parameterType="com.the.dto.ProductDto">
+        INSERT INTO product (p_id, name, brand, type, price)
+        VALUES (#{p_id}, #{name}, #{brand}, #{type}, #{price})
+    </insert>
+
+</mapper>
+
