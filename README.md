@@ -76,17 +76,25 @@
   ![image](https://github.com/user-attachments/assets/a2bf713d-15a6-45e4-8d37-b5a105140ba6)
   
 
-  - 헤더, 푸터를 배치했으며 간단한 글귀와 로그인, 회원가입, 상품목록 버튼을 구현했습니다
+  - 헤더, 푸터를 배치했으며 간단한 글귀와 로그인, 회원가입, 상품목록 버튼을 구현했습니다.
+  - 헤더 가운데 로고글씨를 누르면 메인페이지로 이동합니다.
  
   <br/>
   <br/>
 
 - **회원가입**
- ![image](https://github.com/user-attachments/assets/58226550-6bec-45d0-9a7e-b988c8b038e8)
- ![image](https://github.com/user-attachments/assets/c4d821de-ad19-4a1d-87f2-32d2203e338f)
+ ![image](https://github.com/user-attachments/assets/49219a87-3951-470f-99de-61e416a314f9)
+ ![image](https://github.com/user-attachments/assets/180ef1f7-c03f-458b-a744-47d461d10325)
+ ![image](https://github.com/user-attachments/assets/166b8754-5f7c-4899-9b1e-8b9368f0d315)
+
+
 
 
   - 회원가입 시 DB에 유저정보가 등록됩니다.<br/>
+  - 아이디 중복검사를 구현했습니다
+  - 비밀번호 보기/가리기 버튼을 구현했습니다
+  - 아이디, 비밀번호, 별명, 이름에 유효성검사를 추가했습니다
+  - 카카오맵API를 이용해 주소검색을 추가했습니다
   <br/>
   <br/>
 
@@ -101,7 +109,13 @@
   <br/>
   
 - **마이 페이지**
-  - 내 프로필, 회원 정보 수정, 회원 탈퇴를 진행 할 수 있습니다.<br>
+  - 정보 수정, 비밀번호 변경, 회원 탈퇴를 진행 할 수 있습니다.<br>
+  ![image](https://github.com/user-attachments/assets/76b293c9-bbb2-477d-95fa-e18d29037cce)
+  ![image](https://github.com/user-attachments/assets/93e22380-9b3a-4578-8323-4f9284ea5794)
+  ![image](https://github.com/user-attachments/assets/7ee92ecf-65f9-46e2-9213-eb22840275bb)
+
+
+
 
   <br/>
   <br/>
