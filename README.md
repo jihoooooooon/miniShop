@@ -9,34 +9,27 @@
 <br/>
 
 # 목차 📚
-- <a href="https://github.com/jihoon/exFinder?tab=readme-ov-file#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-">프로젝트 소개</a>
-- <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%ED%8C%80%EC%9B%90%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0-">팀원소개 및 역할
-- <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-">기술 스택
-- <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#erd-">ERD
-- <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">주요 기능
-- <a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#%ED%9B%84%EA%B8%B0-">후기</a>
+- <a>프로젝트 소개</a>
+- <a>팀원소개 및 역할
+- <a>기술 스택
+- <a>ERD
+- <a>주요 기능
+- <a>후기</a>
 
 <br/>
 <br/>
 
 # 프로젝트 소개 🔎
 
-- 실시간 환율 정보와 환율 알림 서비스를 제공하는 웹페이지💱
-- 해외 여행 수요 증가와 환테크 유행이라는 사회적 이슈에서 고안된 웹 페이지 🌍
-- 실시간 환율 정보와 직관적인 디자인으로 환율 변동 추이가 한눈에 확인 가능 👁️
-- 웹소켓을 이용한 환율 알림 기능을 통해 원하는 금액에 알림을 받는 서비스 제공 🔔
+- 로그인, 회원가입 구현 
+- crud기능으로 간단한 쇼핑몰, 장바구니 구현
+- Spring security기능으로 관리자기능 구현
+
   
   <br/>
   <br/>
 
 
-# 팀원소개 및 역할 👨‍👨‍👦‍👦
-| 이원빈 | 김정호 | 최현웅 | 함지훈 |
-|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
-| PL | FE | FE | FE |
-| [@leewonbin](https://github.com/leewonbin) | [@zzz5678](https://github.com/zzx5678) | [@WoongE12](https://github.com/WoongE12) | [@jihoooooooon](https://github.com/jihoooooooon) |
-| <ul align="left"><li>프로젝트 전체 관리</li><li>환율 정보 가져오기</li><li>환율 알림 기능</li><li>환율 계산기</li></ul> | <ul align="left"><li>로그인 및 찾기</li><li>차트</li><li>뉴스 크롤링</li><li>세계 지도</li></ul> | <ul align="left"><li>게시판</li><li>고객센터</li><li>환율 조회 테이블</li><li>오늘의 환율 추천</li></ul> | <ul align="left"><li>마이페이지</li><li>관리자 페이지</li><li>회원가입</li><li>계정관리</li><li>주변 환전 은행 찾기</li></ul> |
 
 <br/>
 <br/>
