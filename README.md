@@ -1,12 +1,10 @@
 # ExFinder💹
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0905e2e5-dbb2-4c16-9a04-70d8fe8e9ad3" width="400" height="150"/>
 </p>
-<h3 align="center"><strong>실시간 환율 정보와 환율 알림 서비스 제공</strong></h3>
+<h3 align="center"><strong>간단한 쇼핑몰 프로젝트</strong></h3>
 
 
-- **프로젝트명** : ExFinder
-- **프로젝트기간** : 24.08.21 ~ 24.10.16
+- **프로젝트명** : Shopang
 
 <br/>
 
