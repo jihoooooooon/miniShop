@@ -113,7 +113,8 @@
   ![image](https://github.com/user-attachments/assets/76b293c9-bbb2-477d-95fa-e18d29037cce)
   ![image](https://github.com/user-attachments/assets/93e22380-9b3a-4578-8323-4f9284ea5794)
   ![image](https://github.com/user-attachments/assets/7ee92ecf-65f9-46e2-9213-eb22840275bb)
-
+ 
+ - 아이디를 제외한 정보 수정, 탈퇴를 구현했습니다. 
 
 
 
@@ -121,10 +122,16 @@
   <br/>
 
 - **제품,장바구니 페이지**
-  - 기간별 변동 추이 : 단위 기간별 차트를 통해 변동 추이를 시각적으로 볼 수 있습니다
-  - 최신 뉴스 : 최신 뉴스를 통해 환율 동향에 대해 참고 할 수 있습니다.
-  - 일자,시간별 테이블 :과거 환율 정보를 조회할 수 있습니다.
-  - 즐겨찾기와 환율 알림 기능을 이용할 수 있습니다.<br>
+  ![image](https://github.com/user-attachments/assets/bd136d83-741e-4e64-b4e9-a5c0493c8cbd)
+  ![image](https://github.com/user-attachments/assets/54521309-f859-4372-bfea-bee78faed5df)
+  ![image](https://github.com/user-attachments/assets/1b0884d8-733a-4f9f-8841-31f3b4db49ad)
+
+
+
+  - 상품을 담기버튼으로 장바구니에 추가할 수 있습니다.
+  - 장바구니에서 구매,삭제를 구현했습니다
+  - 구매를 하면 완료페이지로 이동하며 메인페이지로 이동하는 버튼을 추가했습니다.
+  
 
   <br/>
   <br/>
@@ -147,4 +154,3 @@
 - 함지훈 : 관리자 권한에서 계정 및 게시물 삭제와 활성화 설정 기능을 추가해 효율적인 관리가 가능하게 했고, API를 활용해 외부 통신에 대한 개념을 확립한 점을 긍정적으로 평가했습니다. 하지만 마이페이지 디자인이 허전하게 느껴지고, 환율 관련 추가 관리자 기능이 부족한 점은 추후 개선할 예정입니다.
 
 <br/><br/>
-<a href="https://github.com/leewonbin/exFinder?tab=readme-ov-file#exfinder">맨위로</a>
